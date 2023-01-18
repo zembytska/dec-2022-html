@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a66fe09-cdb6-4f35-a45b-909de18a2740" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec-2022-html.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gomer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/index.html" afterDir="false" />
+    <list default="true" id="2a66fe09-cdb6-4f35-a45b-909de18a2740" name="Changes" comment="Гомер">
+      <change beforePath="$PROJECT_DIR$/lesson1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +21,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="07c7f4c6-98b2-4abf-bd17-35e0b2c6c74c" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -59,8 +56,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673987721078</updated>
-      <workItem from="1673987722250" duration="5557000" />
+      <workItem from="1673987722250" duration="7340000" />
     </task>
+    <task id="LOCAL-00001" summary="Гомер">
+      <created>1673993411414</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673993411414</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,5 +81,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Гомер" />
+    <option name="LAST_COMMIT_MESSAGE" value="Гомер" />
   </component>
 </project>
