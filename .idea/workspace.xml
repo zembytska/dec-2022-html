@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a66fe09-cdb6-4f35-a45b-909de18a2740" name="Changes" comment="Готовий">
-      <change beforePath="$PROJECT_DIR$/lesson1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4/task1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2task2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2task2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3/lesson3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/html.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +46,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Оля/IdeaProjects/dec-2022-html",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -57,6 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1673987721078</updated>
       <workItem from="1673987722250" duration="18011000" />
+      <workItem from="1674764615313" duration="645000" />
     </task>
     <task id="LOCAL-00001" summary="Гомер">
       <created>1673993411414</created>
