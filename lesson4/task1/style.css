@@ -1,0 +1,57 @@
+body{
+    display: flex;
+}
+.top{
+    width: 700px;
+    height: 100px;
+    background: #008075;
+    position: absolute;
+    margin: 20px 3px 3px 3px ;
+}
+.left{
+    width: 500px;
+    height: 300px;
+    background: rebeccapurple;
+    position: absolute;
+    top: 100px;
+    margin: 33px 3px 3px 3px ;
+
+}
+.right{
+    width: 197px;
+    height: 300px;
+    background: mistyrose;
+    position: absolute;
+   left: 513px;
+    top: 127px;
+    margin: 6px 3px;
+}
+@media screen and (min-width: 576px)and (max-width: 768px){
+    body { flex-direction: column}
+    .top{
+        width: 200px;
+        height: 50px;
+        background: #008075;
+        margin: 2px 3px 3px 3px ;
+    }
+    .left{
+        width: 200px;
+        height: 200px;
+        background: rebeccapurple;
+        position: absolute;
+        top: 60px;
+        margin: 3px 3px 3px 3px;
+
+    }
+    .right{
+        width: 200px;
+        height: 50px;
+        background: mistyrose;
+        position: absolute;
+        top: 263px;
+        left: 8px;
+        margin: 3px 3px 3px 3px;
+
+    }
+
+}
