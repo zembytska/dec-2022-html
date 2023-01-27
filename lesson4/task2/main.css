@@ -1,0 +1,6 @@
+.target{
+    width: 1000px;
+    height: 60px;
+    background: mistyrose;
+-webkit-transition: 100ms;
+}
