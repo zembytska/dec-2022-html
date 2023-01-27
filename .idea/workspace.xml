@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a66fe09-cdb6-4f35-a45b-909de18a2740" name="Changes" comment="beginner">
+    <list default="true" id="2a66fe09-cdb6-4f35-a45b-909de18a2740" name="Changes" comment="mobile">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson4/task1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/task1/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson4/task1/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/task1/style.css" afterDir="false" />
@@ -36,21 +36,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Оля/IdeaProjects/dec-2022-html",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Оля/IdeaProjects/dec-2022-html&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -60,7 +60,8 @@
       <option name="presentableId" value="Default" />
       <updated>1673987721078</updated>
       <workItem from="1673987722250" duration="18011000" />
-      <workItem from="1674764615313" duration="9224000" />
+      <workItem from="1674764615313" duration="9321000" />
+      <workItem from="1674816242303" duration="3679000" />
     </task>
     <task id="LOCAL-00001" summary="Гомер">
       <created>1673993411414</created>
@@ -118,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674765497579</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="mobile">
+      <created>1674774671404</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674774671404</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +149,7 @@
     <MESSAGE value="лиза" />
     <MESSAGE value="Готовий" />
     <MESSAGE value="beginner" />
-    <option name="LAST_COMMIT_MESSAGE" value="beginner" />
+    <MESSAGE value="mobile" />
+    <option name="LAST_COMMIT_MESSAGE" value="mobile" />
   </component>
 </project>
