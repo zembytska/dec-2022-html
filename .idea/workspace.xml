@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a66fe09-cdb6-4f35-a45b-909de18a2740" name="Changes" comment="mobile">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/task1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/task1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4/task1/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/task1/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="2a66fe09-cdb6-4f35-a45b-909de18a2740" name="Changes" comment="mobile 1 part" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +57,7 @@
       <updated>1673987721078</updated>
       <workItem from="1673987722250" duration="18011000" />
       <workItem from="1674764615313" duration="9321000" />
-      <workItem from="1674816242303" duration="3679000" />
+      <workItem from="1674816242303" duration="6246000" />
     </task>
     <task id="LOCAL-00001" summary="Гомер">
       <created>1673993411414</created>
@@ -126,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674774671404</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="mobile 1 part">
+      <created>1674821428783</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1674821428789</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,6 +153,7 @@
     <MESSAGE value="Готовий" />
     <MESSAGE value="beginner" />
     <MESSAGE value="mobile" />
-    <option name="LAST_COMMIT_MESSAGE" value="mobile" />
+    <MESSAGE value="mobile 1 part" />
+    <option name="LAST_COMMIT_MESSAGE" value="mobile 1 part" />
   </component>
 </project>
