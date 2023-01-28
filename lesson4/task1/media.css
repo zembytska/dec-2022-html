@@ -1,0 +1,140 @@
+@media screen and (min-width: 576px)and (max-width: 768px){
+    body { flex-direction: column}
+    .wrap{
+        width: 210px;
+        height: 325px;
+        border-radius: 6px;
+        position: absolute;
+        border: 3px solid gold;
+    }
+    .top{
+        width: 200px;
+        height: 50px;
+        background: #008075;
+        margin: 3px 3px 3px 3px ;
+    }
+    .left{
+        width: 200px;
+        height: 200px;
+        background: rebeccapurple;
+        position: absolute;
+        top: 60px;
+        margin: 3px 3px 3px 3px;
+    }
+    .right{
+        width: 200px;
+        height: 50px;
+        background: mistyrose;
+        position: absolute;
+        top: 263px;
+        left: 3px;
+        margin: 3px 3px 3px 1px;
+    }
+
+    .fa-a{
+        position: absolute;
+        left: 95px;
+        top: 20px;
+        font-size: 20px;
+    }
+    .fa-b{
+        position: absolute;
+        left: 95px;
+        top: 150px;
+        font-size: 20px;
+    }
+    .fa-c{
+        position: absolute;
+        left: 95px;
+        top: 280px;
+        font-size: 20px;
+    }
+    .father{
+        width: 210px;
+        height: 325px;
+        border-radius: 6px;
+        position: absolute;
+        border: 3px solid gold;
+    }
+    .a{
+        width: 203px;
+        height: 50px;
+        background: #008075;
+        margin: 3px 3px 3px 3px ;
+    }
+   .b{
+        width: 203px;
+        height: 100px;
+        background: rebeccapurple;
+        position: absolute;
+        top: 55px;
+        margin: 3px 3px 3px 3px;
+    }
+    .f {
+        width: 203px;
+        height: 60px;
+        background: mistyrose;
+        position: absolute;
+        left: 1px;
+        top: 255px;
+        margin: 3px 3px 3px 1px;
+    }
+    .c{
+        width: 60px;
+        height: 80px;
+        background:#52ffeb ;
+        position: absolute;
+        top: 165px;
+        margin: 3px 1px 3px 1px;
+    }
+    .e{
+        width: 60px;
+        height:80px;
+        background:#52ffeb ;
+        position: absolute;
+        top: 165px;
+        left:70px;
+        margin: 3px 1px 1px 3px;
+
+    }
+    .d {
+        width: 60px;
+        height: 80px;
+        background:#52ffeb ;
+        position: absolute;
+        top: 165px;
+        left:140px;
+        margin: 3px 3px 1px 3px;
+
+    }
+    .father >.fa-b{
+        position: absolute;
+        left: 95px;
+        top: 100px;
+        font-size: 20px;
+    }
+    .father >.fa-c{
+        position: absolute;
+        left: 25px;
+        top: 200px;
+        font-size: 20px;
+    }
+   .fa-d{
+        position: absolute;
+        left: 95px;
+        top: 200px;
+        font-size: 20px;
+    }
+  .fa-e{
+        position: absolute;
+        left: 165px;
+        top: 200px;
+        font-size: 20px;
+    }
+    .fa-f{
+        position: absolute;
+       left: 95px;
+        top: 280px;
+        font-size: 20px;
+    }
+}

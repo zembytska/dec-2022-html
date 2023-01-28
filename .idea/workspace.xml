@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a66fe09-cdb6-4f35-a45b-909de18a2740" name="Changes" comment="без">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2a66fe09-cdb6-4f35-a45b-909de18a2740" name="Changes" comment="готове">
+      <change afterPath="$PROJECT_DIR$/lesson4/task1/media.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson4/task1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/task1/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson4/task1/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/task1/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson4/task2/inex.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4/task2/inex.html" afterDir="false" />
@@ -64,7 +64,7 @@
       <workItem from="1673987722250" duration="18011000" />
       <workItem from="1674764615313" duration="9321000" />
       <workItem from="1674816242303" duration="15299000" />
-      <workItem from="1674906359763" duration="4183000" />
+      <workItem from="1674906359763" duration="15105000" />
     </task>
     <task id="LOCAL-00001" summary="Гомер">
       <created>1673993411414</created>
@@ -150,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674858279234</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="готове">
+      <created>1674916185907</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1674916185907</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,6 +184,7 @@
     <MESSAGE value="mobile 1 part" />
     <MESSAGE value="full" />
     <MESSAGE value="без" />
-    <option name="LAST_COMMIT_MESSAGE" value="без" />
+    <MESSAGE value="готове" />
+    <option name="LAST_COMMIT_MESSAGE" value="готове" />
   </component>
 </project>
